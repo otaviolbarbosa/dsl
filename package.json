@@ -28,14 +28,18 @@
   "author": "Otavio Barbosa <otavio@uridetech.com> (https://github.com/otaviolbarbosa)",
   "license": "MIT",
   "homepage": "https://github.com/Uride-tech/uride-dsl#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@react-navigation/material-top-tabs": "^6.6.13",
+    "expo-router": "~3.5.14",
+    "react-native-tab-view": "^3.5.2"
+  },
   "devDependencies": {
     "@types/react": "^18.0.25",
     "expo-module-scripts": "^3.5.2",
     "expo-modules-core": "^1.12.12"
   },
   "peerDependencies": {
-    "expo": "*",
+    "expo": "^51.0.9",
     "react": "*",
     "react-native": "*"
   }

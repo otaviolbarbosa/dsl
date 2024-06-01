@@ -3,6 +3,7 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
+      "@/*": ["./src/*"],
       "uride-dsl": ["../src/index"],
       "uride-dsl/*": ["../src/*"]
     }
