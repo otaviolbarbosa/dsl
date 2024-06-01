@@ -1,6 +1,6 @@
 {
   "name": "uride-dsl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Uride 2.0 DSL",
   "main": "build/index.js",
   "types": "build/index.d.ts",
